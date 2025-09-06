@@ -6,10 +6,10 @@ Welcome to the **Arabic Songs** project — a simple and fast website for your f
 👉 Visit the website here: [Nawady](https://nawady.ws)  
 
 ## 📑 Popular Pages  
-- [Tamer Hosney Songs](https://xn----ymcioso6jm0b.nawady.ws/)  
-- [Mohamed Ramadan Songs](https://xn----zmcqil4a8gbdm.nawady.ws/)  
-- [Classic Arabic Music](https://xn-----dtdcfc5cog8cwfsaclf2ctqggb.nawady.ws/)  
-- [Amr Diab](https://xn-----ctdevoeak3fygob2af.nawady.ws/)  
+- [أغاني تامر حسني](https://xn----ymcioso6jm0b.nawady.ws/)  
+- [أغاني محمد رمضان](https://xn----zmcqil4a8gbdm.nawady.ws/)  
+- [اغاني عربية كلاسيكية](https://xn-----dtdcfc5cog8cwfsaclf2ctqggb.nawady.ws/)  
+- [أغاني عمرو ديياب](https://xn-----ctdevoeak3fygob2af.nawady.ws/)  
 
 ## 🚀 Features  
 - Always new songs  
