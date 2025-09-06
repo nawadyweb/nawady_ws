@@ -1,6 +1,6 @@
-# 🎵 Arabic Songs Downloader  
+# 🎵 Arabic Songs Platform  
 
-Welcome to the **Arabic Songs Downloader** project — a simple and fast website for downloading your favorite Arabic music.  
+Welcome to the **Arabic Songs** project — a simple and fast website for your favorite Arabic music.  
 
 ## 🌐 Live Website  
 👉 Visit the website here: [Nawady](https://nawady.ws)  
@@ -12,7 +12,7 @@ Welcome to the **Arabic Songs Downloader** project — a simple and fast website
 - [Amr Diab](https://xn-----ctdevoeak3fygob2af.nawady.ws/)  
 
 ## 🚀 Features  
-- Fast and direct downloads  
+- Always new songs  
 - Clean and mobile-friendly interface  
 - Huge library of Arabic songs (old & new)  
 - Categories by artists, albums, and playlists  
@@ -29,5 +29,5 @@ If you like the project, feel free to connect:
 - 📧 Email: contact@nawady.ws  
 
 ---
-💡 *This project is for educational and personal use. Please respect copyright laws when downloading music.*
+💡 *This project is for educational and personal use.*
 
